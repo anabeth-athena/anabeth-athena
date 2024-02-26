@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anabeth-athena
-- 👀 I’m interested in learning nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me pls don't reach me lol
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me phone no
 
 <!---
 anabeth-athena/anabeth-athena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
